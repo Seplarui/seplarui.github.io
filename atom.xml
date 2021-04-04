@@ -4,7 +4,28 @@
     <title> - Articles</title>
     <description>Desarrollador de Aplicaciones Web</description>
     <link>
-    </link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>CRUD CLIENTES</title>
+        
+          <description>&lt;h1&gt;Gestión CLIENTES&lt;/h1&gt;
+&lt;p&gt;
+En este proyecto se ha realizado una aplicación Web de gestión de clientes.
+Se ha utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular.
+&lt;/p&gt;
+&lt;p&gt;
+Aquí un video de su funcionamiento:
+
+</description>
+        
+        <pubDate>Sun, 04 Apr 2021 10:00:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/proyecto_CRUD</link>
+        <guid isPermaLink="true">http://localhost:4000/proyecto_CRUD</guid>
+      </item>
+      
     
       
       <item>
@@ -18,8 +39,8 @@ Para poder poner en marcha nuestro servidor con Jekyll hay que lanzar el siguien
         
         <pubDate>Fri, 02 Apr 2021 10:00:00 +0200</pubDate>
         <link>
-        /comandos_jekyll</link>
-        <guid isPermaLink="true">/comandos_jekyll</guid>
+        http://localhost:4000/comandos_jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/comandos_jekyll</guid>
       </item>
       
     
