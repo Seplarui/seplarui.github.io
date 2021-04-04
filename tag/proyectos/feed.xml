@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/tag/proyectos/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2021-04-04T12:20:41+02:00</updated>
-  <id>/tag/proyectos/feed.xml</id>
+  <link href="http://localhost:4000/tag/proyectos/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-04-04T17:41:19+02:00</updated>
+  <id>http://localhost:4000/tag/proyectos/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">CRUD CLIENTES</title>
-      <link href="/proyecto_CRUD" rel="alternate" type="text/html" title="CRUD CLIENTES" />
+      <link href="http://localhost:4000/proyecto_CRUD" rel="alternate" type="text/html" title="CRUD CLIENTES" />
       <published>2021-04-04T10:00:00+02:00</published>
       <updated>2021-04-04T10:00:00+02:00</updated>
-      <id>/proyecto_CRUD</id>
-      <content type="html" xml:base="/proyecto_CRUD">&lt;h1&gt;Gestión CLIENTES&lt;/h1&gt;
+      <id>http://localhost:4000/proyecto_CRUD</id>
+      <content type="html" xml:base="http://localhost:4000/proyecto_CRUD">&lt;h1&gt;Gestión CLIENTES&lt;/h1&gt;
 &lt;p&gt;
 En este proyecto se ha realizado una aplicación Web de gestión de clientes.
 Se ha utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular.
