@@ -1,69 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>/posts/text-and-typography/</loc>
-<lastmod>2019-08-08T11:33:00+08:00</lastmod>
+  <loc>https://www.seplarui.es/</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>/posts/write-a-new-post/</loc>
-<lastmod>2019-08-08T14:10:00+08:00</lastmod>
+  <loc>https://www.seplarui.es/sobremi/</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/posts/getting-started/</loc>
-<lastmod>2019-08-09T20:55:00+08:00</lastmod>
+  <loc>https://www.seplarui.es/tag/proyectos/</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/posts/customize-the-favicon/</loc>
-<lastmod>2019-08-11T00:34:00+08:00</lastmod>
+  <loc>https://www.seplarui.es/tag/varios/</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/posts/enable-google-pv/</loc>
-<lastmod>2021-01-04T07:32:00+08:00</lastmod>
+  <loc>https://www.seplarui.es/apuntes_angular</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/categories/</loc>
-<lastmod>2021-04-01T04:54:53+08:00</lastmod>
+  <loc>https://www.seplarui.es/author/seplarui/</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/tags/</loc>
-<lastmod>2021-04-01T04:54:53+08:00</lastmod>
+  <loc>https://www.seplarui.es/proyecto_crud</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/archives/</loc>
-<lastmod>2021-04-01T04:54:53+08:00</lastmod>
+  <loc>https://www.seplarui.es/comandos_jekyll</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/about/</loc>
-<lastmod>2021-04-01T04:54:53+08:00</lastmod>
+  <loc>https://www.seplarui.es/tag/angular/</loc>
+  <lastmod>2021-04-04T21:51:18+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-<loc>/</loc>
-</url>
-<url>
-<loc>/tags/typography/</loc>
-</url>
-<url>
-<loc>/tags/writing/</loc>
-</url>
-<url>
-<loc>/tags/getting-started/</loc>
-</url>
-<url>
-<loc>/tags/favicon/</loc>
-</url>
-<url>
-<loc>/tags/google-analytics/</loc>
-</url>
-<url>
-<loc>/tags/pageviews/</loc>
-</url>
-<url>
-<loc>/categories/blogging/</loc>
-</url>
-<url>
-<loc>/categories/demo/</loc>
-</url>
-<url>
-<loc>/categories/tutorial/</loc>
-</url>
+
+
 </urlset>

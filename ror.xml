@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.seplarui.es/</title>
+  <link>http://www.seplarui.es/</link>
+
+<item>
+     <link>https://www.seplarui.es/</link>
+     <title>Seplarui Web</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/sobremi/</link>
+     <title>Sobre mi</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/tag/proyectos/</link>
+     <title>Proyectos - Seplarui Web</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/tag/varios/</link>
+     <title>Varios - Seplarui Web</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/apuntes_angular</link>
+     <title>Añadir Bootstrap a un proyecto Angular.</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/author/seplarui/</link>
+     <title>Seplarui - Seplarui Web</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/proyecto_crud</link>
+     <title>CRUD CLIENTES</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/comandos_jekyll</link>
+     <title>Comandos Jekyll</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.seplarui.es/tag/angular/</link>
+     <title>Angular - Seplarui Web</title>
+     <description>Desarrollador de Aplicaciones Web</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
