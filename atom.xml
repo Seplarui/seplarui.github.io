@@ -8,6 +8,25 @@
     
       
       <item>
+        <title>Añadir Bootstrap a un proyecto Angular.</title>
+        
+          <description>&lt;br&gt;
+&lt;h1&gt;Añadir Bootstrap a un proyecto Angular&lt;/h1&gt;
+&lt;p&gt;
+    En primer lugar accedemos a la página web de Bootstrap:
+    &lt;a href=&quot;www.getbootstrap.com&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;
+
+</description>
+        
+        <pubDate>Mon, 05 Apr 2021 10:00:00 +0200</pubDate>
+        <link>
+        /apuntes_angular</link>
+        <guid isPermaLink="true">/apuntes_angular</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>CRUD CLIENTES</title>
         
           <description>&lt;h1&gt;Gestión CLIENTES&lt;/h1&gt;
