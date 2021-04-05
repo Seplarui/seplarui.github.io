@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/Seplarui/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2021-04-05T10:06:48+02:00</updated>
+  <updated>2021-04-05T10:43:04+02:00</updated>
   <id>/author/Seplarui/feed.xml</id>
 
   
@@ -86,6 +86,42 @@ Y si le añadimos algún estilo:
 
       
         <summary type="html">Añadir Bootstrap a un proyecto Angular En primer lugar accedemos a la página web de Bootstrap: Bootstrap</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Introducción a Spring Web MVC 5.0 con Spring Boot</title>
+      <link href="/curso_spring_mvc" rel="alternate" type="text/html" title="Introducción a Spring Web MVC 5.0 con Spring Boot" />
+      <published>2021-04-05T10:00:00+02:00</published>
+      <updated>2021-04-05T10:00:00+02:00</updated>
+      <id>/curso_spring_mvc</id>
+      <content type="html" xml:base="/curso_spring_mvc">&lt;p&gt;
+&lt;img src=&quot;../assets/images/cursos/Introduccion_a_Spring_Web_MVC_5.0_con_Spring_Boot.jpg&quot; alt =&quot;diploma curso Introducción_a_Spring_Web_MVC_5.0_con_Spring_Boot&quot;&gt;
+&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Seplarui</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cursos" />
+      
+
+      
+        <summary type="html"></summary>
       
 
       
