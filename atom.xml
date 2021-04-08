@@ -8,6 +8,29 @@
     
       
       <item>
+        <title>API GITHUB</title>
+        
+          <description>&lt;h1&gt;Acceso a la API de GitHub&lt;/h1&gt;
+&lt;p&gt;
+    En este proyecto se ha utilizado la API de Github para mostrar los commits realizados por cada proyecto.
+&lt;/p&gt;
+&lt;p&gt;
+    FRONTEND: Angular
+&lt;/p&gt;
+&lt;p&gt;
+    Aquí un video de su funcionamiento:
+
+</description>
+        
+        <pubDate>Thu, 08 Apr 2021 10:00:00 +0200</pubDate>
+        <link>
+        /proyecto_API_GITHUB</link>
+        <guid isPermaLink="true">/proyecto_API_GITHUB</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Introducción a Spring Web MVC 5.0 con Spring Boot</title>
         
           <description>&lt;p&gt;

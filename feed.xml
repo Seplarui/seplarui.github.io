@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-07T21:44:17+02:00</updated><id>/</id><title type="html">Seplarui Web</title><subtitle>Hoy he programado</subtitle><entry><title type="html">Introducción a Spring Web MVC 5.0 con Spring Boot</title><link href="/curso_spring_mvc" rel="alternate" type="text/html" title="Introducción a Spring Web MVC 5.0 con Spring Boot" /><published>2021-04-05T10:00:00+02:00</published><updated>2021-04-05T10:00:00+02:00</updated><id>/curso_spring_mvc</id><content type="html" xml:base="/curso_spring_mvc">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-08T12:09:22+02:00</updated><id>/</id><title type="html">Seplarui Web</title><subtitle>Hoy he programado</subtitle><entry><title type="html">API GITHUB</title><link href="/proyecto_API_GITHUB" rel="alternate" type="text/html" title="API GITHUB" /><published>2021-04-08T10:00:00+02:00</published><updated>2021-04-08T10:00:00+02:00</updated><id>/proyecto_API_GITHUB</id><content type="html" xml:base="/proyecto_API_GITHUB">&lt;h1&gt;Acceso a la API de GitHub&lt;/h1&gt;
+&lt;p&gt;
+    En este proyecto se ha utilizado la API de Github para mostrar los commits realizados por cada proyecto.
+&lt;/p&gt;
+&lt;p&gt;
+    FRONTEND: Angular
+&lt;/p&gt;
+&lt;p&gt;
+    Aquí un video de su funcionamiento:
+
+
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jlTpTdrESRo&quot; title=&quot;YouTube video player&quot;
+        frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;
+        allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    El código de la aplicación: &lt;a href=&quot;https://github.com/Seplarui/SeplaruiAngular&quot; target=&quot;_blank&quot;&gt;SeplaruiAngular&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="proyectos" /><summary type="html">Acceso a la API de GitHub En este proyecto se ha utilizado la API de Github para mostrar los commits realizados por cada proyecto. FRONTEND: Angular Aquí un video de su funcionamiento:</summary></entry><entry><title type="html">Introducción a Spring Web MVC 5.0 con Spring Boot</title><link href="/curso_spring_mvc" rel="alternate" type="text/html" title="Introducción a Spring Web MVC 5.0 con Spring Boot" /><published>2021-04-05T10:00:00+02:00</published><updated>2021-04-05T10:00:00+02:00</updated><id>/curso_spring_mvc</id><content type="html" xml:base="/curso_spring_mvc">&lt;p&gt;
 &lt;img src=&quot;../assets/images/cursos/Introduccion_a_Spring_Web_MVC_5.0_con_Spring_Boot.jpg&quot; alt =&quot;diploma curso Introducción_a_Spring_Web_MVC_5.0_con_Spring_Boot&quot;&gt;
 &lt;/p&gt;</content><author><name>Seplarui</name></author><category term="cursos" /><summary type="html"></summary></entry><entry><title type="html">Añadir Bootstrap a un proyecto Angular.</title><link href="/apuntes_angular" rel="alternate" type="text/html" title="Añadir Bootstrap a un proyecto Angular." /><published>2021-04-05T10:00:00+02:00</published><updated>2021-04-05T10:00:00+02:00</updated><id>/apuntes_angular</id><content type="html" xml:base="/apuntes_angular">&lt;br&gt;
 &lt;h1&gt;Añadir Bootstrap a un proyecto Angular&lt;/h1&gt;
