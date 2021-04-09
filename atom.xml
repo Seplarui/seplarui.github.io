@@ -10,9 +10,9 @@
       <item>
         <title>API GITHUB</title>
         
-          <description>&lt;h1&gt;Acceso a la API de GitHub&lt;/h1&gt;
+          <description>&lt;h1&gt;Acceso a la API de GitHub.&lt;/h1&gt;
 &lt;p&gt;
-    En este proyecto se ha utilizado la API de Github para mostrar los commits realizados por cada proyecto.
+    En este proyecto he utilizado la API de Github para mostrar los commits realizados por cada proyecto.
 &lt;/p&gt;
 &lt;p&gt;
     FRONTEND: Angular
@@ -34,6 +34,19 @@
         <title>Introducción a Spring Web MVC 5.0 con Spring Boot</title>
         
           <description>&lt;p&gt;
+    &lt;h1&gt;Contenido del curso.&lt;/h1&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Introducción&lt;/li&gt;
+        &lt;li&gt;Spring Core&lt;/li&gt;
+        &lt;li&gt;Spring Core, Spring MVC y Spring Boot&lt;/li&gt;
+        &lt;li&gt;Spring MVC: Controllers&lt;/li&gt;
+        &lt;li&gt;Spring MVC: Vistas&lt;/li&gt;
+        &lt;li&gt;Spring Security&lt;/li&gt;
+        &lt;li&gt;Packaging&lt;/li&gt;
+        &lt;li&gt;Contenido extra&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
 &lt;img src=&quot;../assets/images/cursos/Introduccion_a_Spring_Web_MVC_5.0_con_Spring_Boot.jpg&quot; alt =&quot;diploma curso Introducción_a_Spring_Web_MVC_5.0_con_Spring_Boot&quot;&gt;
 &lt;/p&gt;</description>
         
@@ -49,7 +62,7 @@
         <title>Añadir Bootstrap a un proyecto Angular.</title>
         
           <description>&lt;br&gt;
-&lt;h1&gt;Añadir Bootstrap a un proyecto Angular&lt;/h1&gt;
+&lt;h1&gt;Añadir Bootstrap a un proyecto Angular.&lt;/h1&gt;
 &lt;p&gt;
     En primer lugar accedemos a la página web de Bootstrap:
     &lt;a href=&quot;www.getbootstrap.com&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;
@@ -67,10 +80,10 @@
       <item>
         <title>CRUD CLIENTES</title>
         
-          <description>&lt;h1&gt;Gestión CLIENTES&lt;/h1&gt;
+          <description>&lt;h1&gt;Gestión CLIENTES.&lt;/h1&gt;
 &lt;p&gt;
-En este proyecto se ha realizado una aplicación Web de gestión de clientes.
-Se ha utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular.
+En este proyecto he realizado una aplicación Web de gestión de clientes.
+He utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular.
 &lt;/p&gt;
 &lt;p&gt;
 Aquí un video de su funcionamiento:
@@ -88,7 +101,7 @@ Aquí un video de su funcionamiento:
       <item>
         <title>Comandos Jekyll</title>
         
-          <description>&lt;h1&gt;Comandos Jekyll&lt;/h1&gt;
+          <description>&lt;h1&gt;Comandos Jekyll.&lt;/h1&gt;
 &lt;p&gt;
 Para poder poner en marcha nuestro servidor con Jekyll hay que lanzar el siguiente comando:
 
