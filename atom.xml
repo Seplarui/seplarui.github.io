@@ -4,7 +4,35 @@
     <title> - Articles</title>
     <description>Hoy he programado</description>
     <link>
-    </link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Acceso Rick And Morty API con Angular.</title>
+        
+          <description>&lt;h1&gt;Acceso Rick And Morty API con Angular.&lt;/h1&gt;
+&lt;p&gt;
+    En este proyecto he utilizado la API pública y gratuita de Rick &amp; Morty: &lt;a href=&quot;https://rickandmortyapi.com/&quot; target=&quot;_blank&quot;&gt;RickAndMorty API&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Podemos mostrar la lista de todos los personajes, buscar por personaje, ir a una página concreta (incluye paginación) y mostrar el
+    detalle de cada uno de los personajes.
+    La aplicación está desplegada en Firebase y se puede probar en esta url: &lt;a href=&quot;https://spr-rickmorty.web.app/&quot; target=&quot;_blank&quot;&gt;RickAndMorty&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    FRONTEND: Angular y Bootstrap.
+&lt;/p&gt;
+&lt;p&gt;
+    Aquí un video de su funcionamiento:
+
+</description>
+        
+        <pubDate>Sun, 11 Apr 2021 10:00:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/proyecto_Rick_Morty</link>
+        <guid isPermaLink="true">http://localhost:4000/proyecto_Rick_Morty</guid>
+      </item>
+      
     
       
       <item>
@@ -15,7 +43,7 @@
     En este proyecto he utilizado la API de Github para mostrar los commits realizados por cada proyecto.
 &lt;/p&gt;
 &lt;p&gt;
-    FRONTEND: Angular
+    FRONTEND: Angular.
 &lt;/p&gt;
 &lt;p&gt;
     Aquí un video de su funcionamiento:
@@ -24,8 +52,8 @@
         
         <pubDate>Thu, 08 Apr 2021 10:00:00 +0200</pubDate>
         <link>
-        /proyecto_API_GITHUB</link>
-        <guid isPermaLink="true">/proyecto_API_GITHUB</guid>
+        http://localhost:4000/proyecto_API_GITHUB</link>
+        <guid isPermaLink="true">http://localhost:4000/proyecto_API_GITHUB</guid>
       </item>
       
     
@@ -52,8 +80,8 @@
         
         <pubDate>Mon, 05 Apr 2021 10:00:00 +0200</pubDate>
         <link>
-        /curso_spring_mvc</link>
-        <guid isPermaLink="true">/curso_spring_mvc</guid>
+        http://localhost:4000/curso_spring_mvc</link>
+        <guid isPermaLink="true">http://localhost:4000/curso_spring_mvc</guid>
       </item>
       
     
@@ -71,8 +99,8 @@
         
         <pubDate>Mon, 05 Apr 2021 10:00:00 +0200</pubDate>
         <link>
-        /apuntes_angular</link>
-        <guid isPermaLink="true">/apuntes_angular</guid>
+        http://localhost:4000/apuntes_angular</link>
+        <guid isPermaLink="true">http://localhost:4000/apuntes_angular</guid>
       </item>
       
     
@@ -86,14 +114,19 @@ En este proyecto he realizado una aplicación Web de gestión de clientes.
 He utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular.
 &lt;/p&gt;
 &lt;p&gt;
+    &lt;p&gt;
+        FRONTEND: Angular y Bootstrap.
+    &lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
 Aquí un video de su funcionamiento:
 
 </description>
         
         <pubDate>Sun, 04 Apr 2021 10:00:00 +0200</pubDate>
         <link>
-        /proyecto_CRUD</link>
-        <guid isPermaLink="true">/proyecto_CRUD</guid>
+        http://localhost:4000/proyecto_CRUD</link>
+        <guid isPermaLink="true">http://localhost:4000/proyecto_CRUD</guid>
       </item>
       
     
@@ -109,8 +142,8 @@ Para poder poner en marcha nuestro servidor con Jekyll hay que lanzar el siguien
         
         <pubDate>Fri, 02 Apr 2021 10:00:00 +0200</pubDate>
         <link>
-        /comandos_jekyll</link>
-        <guid isPermaLink="true">/comandos_jekyll</guid>
+        http://localhost:4000/comandos_jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/comandos_jekyll</guid>
       </item>
       
     
