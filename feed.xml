@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-11T12:12:07+02:00</updated><id>http://localhost:4000/</id><title type="html">Seplarui Web</title><subtitle>Hoy he programado</subtitle><entry><title type="html">Acceso Rick And Morty API con Angular.</title><link href="http://localhost:4000/proyecto_Rick_Morty" rel="alternate" type="text/html" title="Acceso Rick And Morty API con Angular." /><published>2021-04-11T10:00:00+02:00</published><updated>2021-04-11T10:00:00+02:00</updated><id>http://localhost:4000/proyecto_Rick_Morty</id><content type="html" xml:base="http://localhost:4000/proyecto_Rick_Morty">&lt;h1&gt;Acceso Rick And Morty API con Angular.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-08T20:22:42+02:00</updated><id>/</id><title type="html">Seplarui Web</title><subtitle>Hoy he programado</subtitle><entry><title type="html">Angular - Pruebas unitarias con Jasmine y Karma</title><link href="/curso_angular_pruebas_unitarias_jasmine_karma" rel="alternate" type="text/html" title="Angular - Pruebas unitarias con Jasmine y Karma" /><published>2021-06-07T10:00:00+02:00</published><updated>2021-06-07T10:00:00+02:00</updated><id>/curso_angular_pruebas_unitarias_jasmine_karma</id><content type="html" xml:base="/curso_angular_pruebas_unitarias_jasmine_karma">&lt;p&gt;
+    &lt;h1&gt;Contenido del curso.&lt;/h1&gt;
+    &lt;ul&gt;
+        &lt;h3&gt;Introducción&lt;/h3&gt;
+        &lt;li&gt;Presentación del curso&lt;/li&gt;
+        &lt;li&gt;Instructor&lt;/li&gt;
+        &lt;li&gt;Valoración del curso&lt;/li&gt;
+        &lt;li&gt;Software necesario&lt;/li&gt;
+        &lt;h3&gt;Conceptos generales&lt;/h3&gt;
+        &lt;li&gt;¿Qué es un test unitario?&lt;/li&gt;
+        &lt;li&gt;Unit test - Integration test - E2E&lt;/li&gt;
+        &lt;li&gt;¿Cómo funciona un test unitario?&lt;/li&gt;
+        &lt;li&gt;¿Cuál es el mejor momento para hacer las pruebas?&lt;/li&gt;
+        &lt;li&gt;Cobertura/Coverage&lt;/li&gt;
+        &lt;li&gt;Jasmine y Karma&lt;/li&gt;
+        &lt;h3&gt;Jasmine y Karma&lt;/h3&gt;
+        &lt;li&gt;Archivos de prueba en un proyecto&lt;/li&gt;
+        &lt;li&gt;Configuración de Karma&lt;/li&gt;
+        &lt;li&gt;Carpeta coverage&lt;/li&gt;
+        &lt;li&gt;Lanzar tests&lt;/li&gt;
+        &lt;li&gt;Nueva dependencia en Karma (Angular 11 o superior)&lt;/li&gt;
+        &lt;h3&gt;Test unitario&lt;/h3&gt;
+        &lt;li&gt;Aplicación a testear&lt;/li&gt;
+        &lt;li&gt;Instalar JSON Server&lt;/li&gt;
+        &lt;li&gt;Estructura de un fichero de pruebas (.spec)&lt;/li&gt;
+        &lt;li&gt;Configurar TestBed&lt;/li&gt;
+        &lt;li&gt;Crear primer test&lt;/li&gt;
+        &lt;li&gt;Fallos comunes configurando el TestBed&lt;/li&gt;
+        &lt;li&gt;Test a métodos con return&lt;/li&gt;
+        &lt;li&gt;Test a métodos sin return (uso de spyOn)&lt;/li&gt;
+        &lt;li&gt;Test a métodos privados&lt;/li&gt;
+        &lt;li&gt;Finalizando cart component&lt;/li&gt;
+        &lt;li&gt;Test a suscripciones (subscribe-Observable)&lt;/li&gt;
+        &lt;li&gt;Mock de un servicio&lt;/li&gt;
+        &lt;li&gt;xit, fit, xdescribe, fdescribe&lt;/li&gt;
+        &lt;li&gt;beforeEach, beforeAll, afterEach, afterAll&lt;/li&gt;
+        &lt;li&gt;Depurar en karma&lt;/li&gt;
+        &lt;li&gt;Test a un pipe&lt;/li&gt;
+        &lt;li&gt;Test a un servicio (Con peticiones a API)&lt;/li&gt;
+        &lt;li&gt;Finalizando book service&lt;/li&gt;
+        &lt;li&gt;Alternativas para instanciar un componente o servicio&lt;/li&gt;
+        &lt;h3&gt;Ampliación&lt;/h3&gt;
+        &lt;li&gt;Introducción a los test de integración&lt;/li&gt;
+        &lt;li&gt;Automatizar test antes de generar el build&lt;/li&gt;
+        &lt;li&gt;Extensiones de VSCode que utilizo&lt;/li&gt;
+        &lt;h3&gt;Cierre del curso&lt;/h3&gt;
+        &lt;li&gt;Consejos finales&lt;/li&gt;
+        &lt;li&gt;Despedida&lt;/li&gt;
+        &lt;li&gt;BONUS - Información extra&lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src=&quot;../assets/images/cursos/Angular_Pruebas_unitarias_con_Jasmine_y_Karma.jpg&quot; alt =&quot;diploma curso Angular_Pruebas_unitarias_con_Jasmine_y_Karma&quot;&gt;
+&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="cursos" /><summary type="html">Contenido del curso. Introducción Presentación del curso Instructor Valoración del curso Software necesario Conceptos generales ¿Qué es un test unitario? Unit test - Integration test - E2E ¿Cómo funciona un test unitario? ¿Cuál es el mejor momento para hacer las pruebas? Cobertura/Coverage Jasmine y Karma Jasmine y Karma Archivos de prueba en un proyecto Configuración de Karma Carpeta coverage Lanzar tests Nueva dependencia en Karma (Angular 11 o superior) Test unitario Aplicación a testear Instalar JSON Server Estructura de un fichero de pruebas (.spec) Configurar TestBed Crear primer test Fallos comunes configurando el TestBed Test a métodos con return Test a métodos sin return (uso de spyOn) Test a métodos privados Finalizando cart component Test a suscripciones (subscribe-Observable) Mock de un servicio xit, fit, xdescribe, fdescribe beforeEach, beforeAll, afterEach, afterAll Depurar en karma Test a un pipe Test a un servicio (Con peticiones a API) Finalizando book service Alternativas para instanciar un componente o servicio Ampliación Introducción a los test de integración Automatizar test antes de generar el build Extensiones de VSCode que utilizo Cierre del curso Consejos finales Despedida BONUS - Información extra</summary></entry><entry><title type="html">Acceso Rick And Morty API con Angular.</title><link href="/proyecto_Rick_Morty" rel="alternate" type="text/html" title="Acceso Rick And Morty API con Angular." /><published>2021-04-11T10:00:00+02:00</published><updated>2021-04-11T10:00:00+02:00</updated><id>/proyecto_Rick_Morty</id><content type="html" xml:base="/proyecto_Rick_Morty">&lt;h1&gt;Acceso Rick And Morty API con Angular.&lt;/h1&gt;
 &lt;p&gt;
     En este proyecto he utilizado la API pública y gratuita de Rick &amp; Morty: &lt;a href=&quot;https://rickandmortyapi.com/&quot; target=&quot;_blank&quot;&gt;RickAndMorty API&lt;/a&gt;
 &lt;/p&gt;
@@ -20,7 +74,7 @@
 &lt;/p&gt;
 &lt;p&gt;
     El código de la aplicación: &lt;a href=&quot;https://github.com/Seplarui/rutasAngular&quot; target=&quot;_blank&quot;&gt;Rick And Morty&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="proyectos" /><summary type="html">Acceso Rick And Morty API con Angular. En este proyecto he utilizado la API pública y gratuita de Rick &amp; Morty: RickAndMorty API Podemos mostrar la lista de todos los personajes, buscar por personaje, ir a una página concreta (incluye paginación) y mostrar el detalle de cada uno de los personajes. La aplicación está desplegada en Firebase y se puede probar en esta url: RickAndMorty FRONTEND: Angular y Bootstrap. Aquí un video de su funcionamiento:</summary></entry><entry><title type="html">API GITHUB</title><link href="http://localhost:4000/proyecto_API_GITHUB" rel="alternate" type="text/html" title="API GITHUB" /><published>2021-04-08T10:00:00+02:00</published><updated>2021-04-08T10:00:00+02:00</updated><id>http://localhost:4000/proyecto_API_GITHUB</id><content type="html" xml:base="http://localhost:4000/proyecto_API_GITHUB">&lt;h1&gt;Acceso a la API de GitHub.&lt;/h1&gt;
+&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="proyectos" /><summary type="html">Acceso Rick And Morty API con Angular. En este proyecto he utilizado la API pública y gratuita de Rick &amp; Morty: RickAndMorty API Podemos mostrar la lista de todos los personajes, buscar por personaje, ir a una página concreta (incluye paginación) y mostrar el detalle de cada uno de los personajes. La aplicación está desplegada en Firebase y se puede probar en esta url: RickAndMorty FRONTEND: Angular y Bootstrap. Aquí un video de su funcionamiento:</summary></entry><entry><title type="html">API GITHUB</title><link href="/proyecto_API_GITHUB" rel="alternate" type="text/html" title="API GITHUB" /><published>2021-04-08T10:00:00+02:00</published><updated>2021-04-08T10:00:00+02:00</updated><id>/proyecto_API_GITHUB</id><content type="html" xml:base="/proyecto_API_GITHUB">&lt;h1&gt;Acceso a la API de GitHub.&lt;/h1&gt;
 &lt;p&gt;
     En este proyecto he utilizado la API de Github para mostrar los commits realizados por cada proyecto.
 &lt;/p&gt;
@@ -37,7 +91,7 @@
 &lt;/p&gt;
 &lt;p&gt;
     El código de la aplicación: &lt;a href=&quot;https://github.com/Seplarui/SeplaruiAngular&quot; target=&quot;_blank&quot;&gt;SeplaruiAngular&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="proyectos" /><summary type="html">Acceso a la API de GitHub. En este proyecto he utilizado la API de Github para mostrar los commits realizados por cada proyecto. FRONTEND: Angular. Aquí un video de su funcionamiento:</summary></entry><entry><title type="html">Introducción a Spring Web MVC 5.0 con Spring Boot</title><link href="http://localhost:4000/curso_spring_mvc" rel="alternate" type="text/html" title="Introducción a Spring Web MVC 5.0 con Spring Boot" /><published>2021-04-05T10:00:00+02:00</published><updated>2021-04-05T10:00:00+02:00</updated><id>http://localhost:4000/curso_spring_mvc</id><content type="html" xml:base="http://localhost:4000/curso_spring_mvc">&lt;p&gt;
+&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="proyectos" /><summary type="html">Acceso a la API de GitHub. En este proyecto he utilizado la API de Github para mostrar los commits realizados por cada proyecto. FRONTEND: Angular. Aquí un video de su funcionamiento:</summary></entry><entry><title type="html">Introducción a Spring Web MVC 5.0 con Spring Boot</title><link href="/curso_spring_mvc" rel="alternate" type="text/html" title="Introducción a Spring Web MVC 5.0 con Spring Boot" /><published>2021-04-05T10:00:00+02:00</published><updated>2021-04-05T10:00:00+02:00</updated><id>/curso_spring_mvc</id><content type="html" xml:base="/curso_spring_mvc">&lt;p&gt;
     &lt;h1&gt;Contenido del curso.&lt;/h1&gt;
     &lt;ul&gt;
         &lt;li&gt;Introducción&lt;/li&gt;
@@ -52,7 +106,7 @@
 &lt;/p&gt;
 &lt;p&gt;
 &lt;img src=&quot;../assets/images/cursos/Introduccion_a_Spring_Web_MVC_5.0_con_Spring_Boot.jpg&quot; alt =&quot;diploma curso Introducción_a_Spring_Web_MVC_5.0_con_Spring_Boot&quot;&gt;
-&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="cursos" /><summary type="html">Contenido del curso. Introducción Spring Core Spring Core, Spring MVC y Spring Boot Spring MVC: Controllers Spring MVC: Vistas Spring Security Packaging Contenido extra</summary></entry><entry><title type="html">Añadir Bootstrap a un proyecto Angular.</title><link href="http://localhost:4000/apuntes_angular" rel="alternate" type="text/html" title="Añadir Bootstrap a un proyecto Angular." /><published>2021-04-05T10:00:00+02:00</published><updated>2021-04-05T10:00:00+02:00</updated><id>http://localhost:4000/apuntes_angular</id><content type="html" xml:base="http://localhost:4000/apuntes_angular">&lt;br&gt;
+&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="cursos" /><summary type="html">Contenido del curso. Introducción Spring Core Spring Core, Spring MVC y Spring Boot Spring MVC: Controllers Spring MVC: Vistas Spring Security Packaging Contenido extra</summary></entry><entry><title type="html">Añadir Bootstrap a un proyecto Angular.</title><link href="/apuntes_angular" rel="alternate" type="text/html" title="Añadir Bootstrap a un proyecto Angular." /><published>2021-04-05T10:00:00+02:00</published><updated>2021-04-05T10:00:00+02:00</updated><id>/apuntes_angular</id><content type="html" xml:base="/apuntes_angular">&lt;br&gt;
 &lt;h1&gt;Añadir Bootstrap a un proyecto Angular.&lt;/h1&gt;
 &lt;p&gt;
     En primer lugar accedemos a la página web de Bootstrap:
@@ -79,7 +133,7 @@ Comprobamos como se ve sin añadir ninguna clase de Bootstrap:
 
 Y si le añadimos algún estilo:
 &lt;img src=&quot;../assets/images/apuntes/bootstrap/imagen4.jpg&quot; alt=&quot;tabla con estilo bootstrap&quot;&gt;
-&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="angular" /><summary type="html">Añadir Bootstrap a un proyecto Angular. En primer lugar accedemos a la página web de Bootstrap: Bootstrap</summary></entry><entry><title type="html">CRUD CLIENTES</title><link href="http://localhost:4000/proyecto_CRUD" rel="alternate" type="text/html" title="CRUD CLIENTES" /><published>2021-04-04T10:00:00+02:00</published><updated>2021-04-04T10:00:00+02:00</updated><id>http://localhost:4000/proyecto_CRUD</id><content type="html" xml:base="http://localhost:4000/proyecto_CRUD">&lt;h1&gt;Gestión CLIENTES.&lt;/h1&gt;
+&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="angular" /><summary type="html">Añadir Bootstrap a un proyecto Angular. En primer lugar accedemos a la página web de Bootstrap: Bootstrap</summary></entry><entry><title type="html">CRUD CLIENTES</title><link href="/proyecto_CRUD" rel="alternate" type="text/html" title="CRUD CLIENTES" /><published>2021-04-04T10:00:00+02:00</published><updated>2021-04-04T10:00:00+02:00</updated><id>/proyecto_CRUD</id><content type="html" xml:base="/proyecto_CRUD">&lt;h1&gt;Gestión CLIENTES.&lt;/h1&gt;
 &lt;p&gt;
 En este proyecto he realizado una aplicación Web de gestión de clientes.
 He utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular.
@@ -97,7 +151,7 @@ Aquí un video de su funcionamiento:
 &lt;/p&gt;
 &lt;p&gt;
 El código de la aplicación: &lt;a href=&quot;https://github.com/Seplarui/gestionClientes&quot; target=&quot;_blank&quot;&gt;Gestión Clientes&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="proyectos" /><summary type="html">Gestión CLIENTES. En este proyecto he realizado una aplicación Web de gestión de clientes. He utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular. FRONTEND: Angular y Bootstrap. Aquí un video de su funcionamiento:</summary></entry><entry><title type="html">Comandos Jekyll</title><link href="http://localhost:4000/comandos_jekyll" rel="alternate" type="text/html" title="Comandos Jekyll" /><published>2021-04-02T10:00:00+02:00</published><updated>2021-04-02T10:00:00+02:00</updated><id>http://localhost:4000/comandos_jekyll</id><content type="html" xml:base="http://localhost:4000/comandos_jekyll">&lt;h1&gt;Comandos Jekyll.&lt;/h1&gt;
+&lt;/p&gt;</content><author><name>Seplarui</name></author><category term="proyectos" /><summary type="html">Gestión CLIENTES. En este proyecto he realizado una aplicación Web de gestión de clientes. He utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular. FRONTEND: Angular y Bootstrap. Aquí un video de su funcionamiento:</summary></entry><entry><title type="html">Comandos Jekyll</title><link href="/comandos_jekyll" rel="alternate" type="text/html" title="Comandos Jekyll" /><published>2021-04-02T10:00:00+02:00</published><updated>2021-04-02T10:00:00+02:00</updated><id>/comandos_jekyll</id><content type="html" xml:base="/comandos_jekyll">&lt;h1&gt;Comandos Jekyll.&lt;/h1&gt;
 &lt;p&gt;
 Para poder poner en marcha nuestro servidor con Jekyll hay que lanzar el siguiente comando:
 

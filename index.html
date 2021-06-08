@@ -36,8 +36,8 @@
     
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="Hoy he programado" />
-    <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/" />
+    <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" />
+    <link rel="canonical" href="/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
@@ -45,14 +45,14 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Seplarui Web" />
     <meta property="og:description" content="Hoy he programado" />
-    <meta property="og:url" content="http://localhost:4000/" />
-    <meta property="og:image" content="http://localhost:4000/assets/images/blog-cover.jpg" />
+    <meta property="og:url" content="/" />
+    <meta property="og:image" content="/assets/images/blog-cover.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Seplarui Web" />
     <meta name="twitter:description" content="Hoy he programado" />
-    <meta name="twitter:url" content="http://localhost:4000/" />
-    <meta name="twitter:image" content="http://localhost:4000/assets/images/blog-cover.jpg" />
+    <meta name="twitter:url" content="/" />
+    <meta name="twitter:image" content="/assets/images/blog-cover.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Seplarui Web" />
     <meta name="twitter:site" content="@seplaruidev" />
@@ -67,18 +67,18 @@
     "publisher": {
         "@type": "Organization",
         "name": "Seplarui Web",
-        "logo": "http://localhost:4000/"
+        "logo": "/"
     },
-    "url": "http://localhost:4000/",
+    "url": "/",
     "image": {
         "@type": "ImageObject",
-        "url": "http://localhost:4000/assets/images/blog-cover.jpg",
+        "url": "/assets/images/blog-cover.jpg",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/"
+        "@id": "/"
     },
     "description": "Hoy he programado"
 }
@@ -258,6 +258,52 @@ into the {body} of the default.hbs template -->
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             
 
+
+    <article class="post-card home-template">
+        
+            <a class="post-card-image-link" href="/curso_angular_pruebas_unitarias_jasmine_karma">
+                <div class="post-card-image" style="background-image: url(/assets/images/cursos/bombilla_curso.jpeg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/curso_angular_pruebas_unitarias_jasmine_karma">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Cursos</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">Angular - Pruebas unitarias con Jasmine y Karma</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>Contenido del curso. Introducción Presentación del curso Instructor Valoración del curso Software necesario Conceptos generales ¿Qué es un test unitario? Unit test - Integration test - E2E ¿Cómo funciona un test unitario? ¿Cuál</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/images/author_seplarui.jpg" alt="Seplarui" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/Seplarui/">Seplarui</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
 
     <article class="post-card home-template">
         
@@ -582,7 +628,7 @@ Para poder poner en marcha nuestro servidor con Jekyll hay que lanzar el siguien
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="http://localhost:4000/">Seplarui Web</a> &copy; 2021</section>
+                <section class="copyright"><a href="/">Seplarui Web</a> &copy; 2021</section>
                 <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
                     <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
                     <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>

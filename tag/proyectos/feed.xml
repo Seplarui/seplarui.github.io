@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/proyectos/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-04-11T12:12:07+02:00</updated>
-  <id>http://localhost:4000/tag/proyectos/feed.xml</id>
+  <link href="/tag/proyectos/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2021-06-08T20:22:42+02:00</updated>
+  <id>/tag/proyectos/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Acceso Rick And Morty API con Angular.</title>
-      <link href="http://localhost:4000/proyecto_Rick_Morty" rel="alternate" type="text/html" title="Acceso Rick And Morty API con Angular." />
+      <link href="/proyecto_Rick_Morty" rel="alternate" type="text/html" title="Acceso Rick And Morty API con Angular." />
       <published>2021-04-11T10:00:00+02:00</published>
       <updated>2021-04-11T10:00:00+02:00</updated>
-      <id>http://localhost:4000/proyecto_Rick_Morty</id>
-      <content type="html" xml:base="http://localhost:4000/proyecto_Rick_Morty">&lt;h1&gt;Acceso Rick And Morty API con Angular.&lt;/h1&gt;
+      <id>/proyecto_Rick_Morty</id>
+      <content type="html" xml:base="/proyecto_Rick_Morty">&lt;h1&gt;Acceso Rick And Morty API con Angular.&lt;/h1&gt;
 &lt;p&gt;
     En este proyecto he utilizado la API pública y gratuita de Rick &amp; Morty: &lt;a href=&quot;https://rickandmortyapi.com/&quot; target=&quot;_blank&quot;&gt;RickAndMorty API&lt;/a&gt;
 &lt;/p&gt;
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">API GITHUB</title>
-      <link href="http://localhost:4000/proyecto_API_GITHUB" rel="alternate" type="text/html" title="API GITHUB" />
+      <link href="/proyecto_API_GITHUB" rel="alternate" type="text/html" title="API GITHUB" />
       <published>2021-04-08T10:00:00+02:00</published>
       <updated>2021-04-08T10:00:00+02:00</updated>
-      <id>http://localhost:4000/proyecto_API_GITHUB</id>
-      <content type="html" xml:base="http://localhost:4000/proyecto_API_GITHUB">&lt;h1&gt;Acceso a la API de GitHub.&lt;/h1&gt;
+      <id>/proyecto_API_GITHUB</id>
+      <content type="html" xml:base="/proyecto_API_GITHUB">&lt;h1&gt;Acceso a la API de GitHub.&lt;/h1&gt;
 &lt;p&gt;
     En este proyecto he utilizado la API de Github para mostrar los commits realizados por cada proyecto.
 &lt;/p&gt;
@@ -140,11 +140,11 @@
   
     <entry>
       <title type="html">CRUD CLIENTES</title>
-      <link href="http://localhost:4000/proyecto_CRUD" rel="alternate" type="text/html" title="CRUD CLIENTES" />
+      <link href="/proyecto_CRUD" rel="alternate" type="text/html" title="CRUD CLIENTES" />
       <published>2021-04-04T10:00:00+02:00</published>
       <updated>2021-04-04T10:00:00+02:00</updated>
-      <id>http://localhost:4000/proyecto_CRUD</id>
-      <content type="html" xml:base="http://localhost:4000/proyecto_CRUD">&lt;h1&gt;Gestión CLIENTES.&lt;/h1&gt;
+      <id>/proyecto_CRUD</id>
+      <content type="html" xml:base="/proyecto_CRUD">&lt;h1&gt;Gestión CLIENTES.&lt;/h1&gt;
 &lt;p&gt;
 En este proyecto he realizado una aplicación Web de gestión de clientes.
 He utilizado en la parte de backend se ha creado una API REST con NodeJS y el framework Express y en la parte Frontend se ha utilizado Angular.
